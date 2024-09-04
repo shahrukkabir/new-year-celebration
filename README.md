@@ -4,5 +4,5 @@
 
 [Click here to view the live website](https://shahrukkabir.github.io/new-year-celebration/)
 
-![Preview Image](images/landing_page)
+![Preview Image](landing_page.png)
 
